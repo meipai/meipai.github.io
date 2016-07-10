@@ -53,9 +53,4 @@ footer{
   background-color: #eee;
 }
 
-@media screen and (max-width:1000px){
-  .wrap{width:100%;}
-  .img-wrap{width:50%;height:80vw;}
-}
-
 

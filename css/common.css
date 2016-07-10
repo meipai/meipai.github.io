@@ -16,6 +16,7 @@ a{color:#666;}
 .top-nav{
   height: 50px;
   background-color: #ddd;
+
 }
 .content{}
 .content > .wrap{padding:10px;border:1px solid #eee;}
@@ -26,9 +27,12 @@ a{color:#666;}
 .img-wrap{
   display: inline-block;
   width:200px;
+  height:300px;
+  background-color: #eee;
 }
+.img-wrap a{width:100%;height:100%;background-size: cover;background-position: center center;}
 .img-wrap img{
-  display: block;
+  display: none;
   width:100%;
 }
 

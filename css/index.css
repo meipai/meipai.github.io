@@ -5,7 +5,5 @@
 }
 
 @media screen and (max-width:1000px){
-  .banner{
-  	height:40vw;
-  }
+  .banner{height:40vw;}
 }

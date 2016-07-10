@@ -567,14 +567,14 @@ th {
 .color-yellow{color:yellow;}
 .color-green{color:green;}
 
-.color-000{color:#000;}
-.color-333{color:#333;}
-.color-666{color:#666;}
-.color-999{color:#999;}
-.color-aaa{color:#aaa;}
-.color-ccc{color:#ccc;}
-.color-eee{color:#eee;}
-.color-fff{color:#fff;}
+.color-000{color:#000 !important;}
+.color-333{color:#333 !important;}
+.color-666{color:#666 !important;}
+.color-999{color:#999 !important;}
+.color-aaa{color:#aaa !important;}
+.color-ccc{color:#ccc !important;}
+.color-eee{color:#eee !important;}
+.color-fff{color:#fff !important;}
 
 /*clear fix*/
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}

@@ -55,6 +55,7 @@ footer{
 
 @media screen and (max-width:1000px){
   .wrap{width:100%;}
+  .top-nav{position: fixed;left:0;bottom:0;width:100%;}
   .img-wrap{width:50%;height:180px;height:80vw;float:left;}
 }
 

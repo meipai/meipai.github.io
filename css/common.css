@@ -54,8 +54,8 @@ footer{
 }
 
 @media screen and (max-width:1000px){
-  .wrap{width:100%;float:left;}
-  .img-wrap{width:50%;height:80vw;}
+  .wrap{width:100%;}
+  .img-wrap{width:50%;height:80vw;float:left;}
 }
 
 
